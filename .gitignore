@@ -31,3 +31,13 @@ build/
 
 ### VS Code ###
 .vscode/
+
+/node_modules/
+package-lock.json
+yarn.lock
+
+.env
+application.properties
+application.yml
+
+
