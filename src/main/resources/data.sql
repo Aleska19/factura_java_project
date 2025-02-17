@@ -1,0 +1,2 @@
+INSERT INTO clients (name, lastname, docnumber) VALUES ('Aleska', 'Cegarra', 35562223);
+INSERT INTO products (description, code, stock, price) VALUES ('Notebook hp 25513, 16ram 256gb, color: Indigo', 55589, 6, 1200 )
