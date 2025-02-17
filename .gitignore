@@ -36,8 +36,6 @@ build/
 package-lock.json
 yarn.lock
 
-.env
+/resources/
 application.properties
-application.yml
-
 
