@@ -36,5 +36,5 @@ build/
 package-lock.json
 yarn.lock
 
-/src/main/resources/application.properties
+###/src/main/resources/application.properties
 
