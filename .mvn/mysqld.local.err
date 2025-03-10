@@ -1,0 +1,31 @@
+2025-03-07T19:02:38.398380Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-03-07T19:02:38.714390Z 0 [System] [MY-010116] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe (mysqld 8.4.2) starting as process 10972
+2025-03-07T19:02:38.737124Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-03-07T19:02:38.901559Z 1 [ERROR] [MY-013039] [InnoDB] Can't create UNDO tablespace innodb_undo_001  since '.\undo_001' already exists.
+2025-03-07T19:02:38.904118Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2025-03-07T19:02:38.962047Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2025-03-07T19:02:38.964800Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2025-03-07T19:02:38.965683Z 0 [ERROR] [MY-010119] [Server] Aborting
+2025-03-07T19:02:38.968393Z 0 [System] [MY-010910] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe: Shutdown complete (mysqld 8.4.2)  MySQL Community Server - GPL.
+2025-03-07T19:02:38.969515Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-03-07T19:09:59.277704Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-03-07T19:09:59.534960Z 0 [System] [MY-010116] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe (mysqld 8.4.2) starting as process 22028
+2025-03-07T19:09:59.589224Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-03-07T19:09:59.740050Z 1 [ERROR] [MY-013039] [InnoDB] Can't create UNDO tablespace innodb_undo_002  since '.\undo_002' already exists.
+2025-03-07T19:09:59.741231Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2025-03-07T19:09:59.807797Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2025-03-07T19:09:59.810432Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2025-03-07T19:09:59.811263Z 0 [ERROR] [MY-010119] [Server] Aborting
+2025-03-07T19:09:59.821280Z 0 [System] [MY-010910] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe: Shutdown complete (mysqld 8.4.2)  MySQL Community Server - GPL.
+2025-03-07T19:09:59.822373Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-03-07T19:10:09.318785Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-03-07T19:10:09.439669Z 0 [System] [MY-010116] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe (mysqld 8.4.2) starting as process 16008
+2025-03-07T19:10:09.455751Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-03-07T19:10:09.641240Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2025-03-07T19:10:10.507870Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2025-03-07T19:10:10.508444Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2025-03-07T19:10:10.578473Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2025-03-07T19:10:10.578648Z 0 [System] [MY-010931] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe: ready for connections. Version: '8.4.2'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2025-03-09T21:06:16.775765Z 255 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2025-03-09T21:06:18.585142Z 256 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2025-03-09T21:06:20.754283Z 257 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'

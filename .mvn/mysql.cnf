@@ -1,0 +1,9 @@
+[mysqld]
+port=3307
+basedir="C:/Users/cegar/AppData/Local/com.tinyapp.DBngin/Binaries/mysql/8.4.2"
+datadir="C:/Users/cegar/proyectos/invoice_coder/.mvn"
+plugin-dir="C:/Users/cegar/AppData/Local/com.tinyapp.DBngin/Binaries/mysql/8.4.2/lib/plugin"
+log-error="C:/Users/cegar/proyectos/invoice_coder/.mvn/mysqld.local.err"
+pid-file="C:/Users/cegar/proyectos/invoice_coder/.mvn/mysql.pid"
+skip-log-bin
+
