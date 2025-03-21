@@ -29,3 +29,110 @@
 2025-03-09T21:06:16.775765Z 255 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
 2025-03-09T21:06:18.585142Z 256 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
 2025-03-09T21:06:20.754283Z 257 [Warning] [MY-013360] [Server] Plugin sha256_password reported: ''sha256_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'
+2025-03-13T02:12:47.439440Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-03-13T02:12:48.008149Z 0 [System] [MY-010116] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe (mysqld 8.4.2) starting as process 6072
+2025-03-13T02:12:48.192821Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-03-13T02:12:49.078967Z 1 [ERROR] [MY-013039] [InnoDB] Can't create UNDO tablespace innodb_undo_001  since '.\undo_001' already exists.
+2025-03-13T02:12:49.080179Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2025-03-13T02:12:49.141625Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2025-03-13T02:12:49.155270Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2025-03-13T02:12:49.156681Z 0 [ERROR] [MY-010119] [Server] Aborting
+2025-03-13T02:12:49.169965Z 0 [System] [MY-010910] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe: Shutdown complete (mysqld 8.4.2)  MySQL Community Server - GPL.
+2025-03-13T02:12:49.170913Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-03-13T14:04:15.256232Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-03-13T14:04:15.609427Z 0 [System] [MY-010116] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe (mysqld 8.4.2) starting as process 22708
+2025-03-13T14:04:15.708184Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-03-13T14:04:16.048030Z 1 [ERROR] [MY-013039] [InnoDB] Can't create UNDO tablespace innodb_undo_002  since '.\undo_002' already exists.
+2025-03-13T14:04:16.049860Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2025-03-13T14:04:16.158233Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2025-03-13T14:04:16.161411Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2025-03-13T14:04:16.162761Z 0 [ERROR] [MY-010119] [Server] Aborting
+2025-03-13T14:04:16.169635Z 0 [System] [MY-010910] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe: Shutdown complete (mysqld 8.4.2)  MySQL Community Server - GPL.
+2025-03-13T14:04:16.171591Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-03-19T23:41:23.162107Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-03-19T23:41:23.436365Z 0 [System] [MY-010116] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe (mysqld 8.4.2) starting as process 12104
+2025-03-19T23:41:23.504610Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-03-19T23:41:23.865711Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2025-03-19T23:41:24.626033Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2025-03-19T23:41:24.626648Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2025-03-19T23:41:24.751350Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2025-03-19T23:41:24.751480Z 0 [System] [MY-010931] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe: ready for connections. Version: '8.4.2'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2025-03-20T00:37:36.094135Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-03-20T00:37:36.716080Z 0 [System] [MY-010116] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe (mysqld 8.4.2) starting as process 6792
+2025-03-20T00:37:36.875848Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-03-20T00:37:37.745184Z 1 [ERROR] [MY-013039] [InnoDB] Can't create UNDO tablespace innodb_undo_001  since '.\undo_001' already exists.
+2025-03-20T00:37:37.746641Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2025-03-20T00:37:37.873759Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2025-03-20T00:37:37.898499Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2025-03-20T00:37:37.899208Z 0 [ERROR] [MY-010119] [Server] Aborting
+2025-03-20T00:37:37.934096Z 0 [System] [MY-010910] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe: Shutdown complete (mysqld 8.4.2)  MySQL Community Server - GPL.
+2025-03-20T00:37:37.935597Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-03-20T00:55:56.013798Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-03-20T00:55:56.264141Z 0 [System] [MY-010116] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe (mysqld 8.4.2) starting as process 17844
+2025-03-20T00:55:56.332657Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-03-20T00:55:56.579894Z 1 [ERROR] [MY-013039] [InnoDB] Can't create UNDO tablespace innodb_undo_002  since '.\undo_002' already exists.
+2025-03-20T00:55:56.580943Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2025-03-20T00:55:56.659284Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2025-03-20T00:55:56.661801Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2025-03-20T00:55:56.663090Z 0 [ERROR] [MY-010119] [Server] Aborting
+2025-03-20T00:55:56.671281Z 0 [System] [MY-010910] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe: Shutdown complete (mysqld 8.4.2)  MySQL Community Server - GPL.
+2025-03-20T00:55:56.672345Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-03-20T01:10:49.821379Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-03-20T01:10:50.312111Z 0 [System] [MY-010116] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe (mysqld 8.4.2) starting as process 6800
+2025-03-20T01:10:50.442308Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-03-20T01:10:51.377526Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2025-03-20T01:10:52.342957Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2025-03-20T01:10:52.343476Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2025-03-20T01:10:52.406847Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2025-03-20T01:10:52.407552Z 0 [System] [MY-010931] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe: ready for connections. Version: '8.4.2'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2025-03-20T01:13:34.933151Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-03-20T01:13:35.435895Z 0 [System] [MY-010116] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe (mysqld 8.4.2) starting as process 16416
+2025-03-20T01:13:35.595184Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-03-20T01:13:35.601804Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2025-03-20T01:13:35.621816Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2025-03-20T01:13:35.622719Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2025-03-20T01:13:35.638926Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2025-03-20T01:13:35.639774Z 0 [ERROR] [MY-010119] [Server] Aborting
+2025-03-20T01:13:35.651506Z 0 [System] [MY-010910] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe: Shutdown complete (mysqld 8.4.2)  MySQL Community Server - GPL.
+2025-03-20T01:13:35.653192Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-03-20T01:33:48.795821Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-03-20T01:33:49.046921Z 0 [System] [MY-010116] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe (mysqld 8.4.2) starting as process 23768
+2025-03-20T01:33:49.084706Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-03-20T01:33:49.087529Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2025-03-20T01:33:49.088161Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2025-03-20T01:33:49.089369Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2025-03-20T01:33:49.090516Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2025-03-20T01:33:49.091271Z 0 [ERROR] [MY-010119] [Server] Aborting
+2025-03-20T01:33:49.095289Z 0 [System] [MY-010910] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe: Shutdown complete (mysqld 8.4.2)  MySQL Community Server - GPL.
+2025-03-20T01:33:49.096446Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-03-20T14:37:47.918862Z 0 [System] [MY-013105] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe: Normal shutdown.
+2025-03-20T14:37:49.468698Z 0 [System] [MY-010910] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe: Shutdown complete (mysqld 8.4.2)  MySQL Community Server - GPL.
+2025-03-20T14:37:49.469783Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-03-20T14:38:14.683555Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-03-20T14:38:15.359693Z 0 [System] [MY-010116] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe (mysqld 8.4.2) starting as process 5972
+2025-03-20T14:38:15.545099Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-03-20T14:38:16.596230Z 1 [ERROR] [MY-013039] [InnoDB] Can't create UNDO tablespace innodb_undo_001  since '.\undo_001' already exists.
+2025-03-20T14:38:16.597011Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2025-03-20T14:38:16.653817Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2025-03-20T14:38:16.679937Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2025-03-20T14:38:16.680475Z 0 [ERROR] [MY-010119] [Server] Aborting
+2025-03-20T14:38:16.713982Z 0 [System] [MY-010910] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe: Shutdown complete (mysqld 8.4.2)  MySQL Community Server - GPL.
+2025-03-20T14:38:16.715038Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-03-20T15:30:33.170860Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-03-20T15:30:33.924132Z 0 [System] [MY-010116] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe (mysqld 8.4.2) starting as process 5172
+2025-03-20T15:30:34.614412Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-03-20T15:30:34.956745Z 1 [ERROR] [MY-013039] [InnoDB] Can't create UNDO tablespace innodb_undo_002  since '.\undo_002' already exists.
+2025-03-20T15:30:34.961006Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2025-03-20T15:30:35.032811Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2025-03-20T15:30:35.037270Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2025-03-20T15:30:35.038385Z 0 [ERROR] [MY-010119] [Server] Aborting
+2025-03-20T15:30:35.075502Z 0 [System] [MY-010910] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe: Shutdown complete (mysqld 8.4.2)  MySQL Community Server - GPL.
+2025-03-20T15:30:35.076832Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-03-20T18:19:24.131776Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-03-20T18:19:24.366575Z 0 [System] [MY-010116] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe (mysqld 8.4.2) starting as process 2032
+2025-03-20T18:19:24.410412Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-03-20T18:19:24.616269Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2025-03-20T18:19:25.353786Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2025-03-20T18:19:25.354400Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2025-03-20T18:19:25.465563Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2025-03-20T18:19:25.465931Z 0 [System] [MY-010931] [Server] C:\Users\cegar\AppData\Local\com.tinyapp.DBngin\Binaries\mysql\8.4.2\bin\mysqld.exe: ready for connections. Version: '8.4.2'  socket: ''  port: 3307  MySQL Community Server - GPL.
