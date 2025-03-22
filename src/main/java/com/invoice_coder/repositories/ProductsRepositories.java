@@ -1,0 +1,11 @@
+package com.invoice_coder.repositories;
+
+import com.invoice_coder.Products;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+
+@Repository
+
+public interface ProductsRepositories extends JpaRepository<Products, Long>{
+}
