@@ -1,6 +1,6 @@
 package com.invoice_coder.repositories;
 
-import com.invoice_coder.Products;
+import com.invoice_coder.entities.Products;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

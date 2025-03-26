@@ -1,6 +1,6 @@
 package com.invoice_coder.controllers;
 
-import com.invoice_coder.Products;
+import com.invoice_coder.entities.Products;
 
 import com.invoice_coder.services.ProductsService;
 import org.springframework.http.ResponseEntity;
@@ -24,9 +24,9 @@ public class ProductsController {
      }
 
      @PostMapping
-    public ResponseEntity<String>   saveProducts(@RequestBody Products products){
+    public ResponseEntity<String>   saveProducts(@RequestBody Products product){
          try {
-             this.productsService.saveProducts(products);
+             this.productsService.saveProducts(product);
              return ResponseEntity.ok("Producto guardado exitosamente");
          } catch (Exception e) {
              return ResponseEntity.badRequest().body("Error al guardar producto: " + e.getMessage());
